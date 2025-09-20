@@ -1,0 +1,6 @@
+Project Title: Breast Cancer Prediction Using Logistic Regression
+Technologies: Python, NumPy, Pandas, Scikit-learn
+Project Description: This project involves predicting whether breast cancer is malignant or benign using logistic regression.
+ Project Requirements:
+Tools and Environment:- Platform: Use Google Colab or any Python IDE (e.g., Jupyter Notebook, VS Code).
+Libraries Required:- numpy: For numerical operations- pandas: For data manipulation and analysis- scikit-learn: For dataset, model training, and evaluatio

@@ -1,0 +1,39 @@
+location,brand,title,year,price_raw,price_numerical,km_driven,owners_raw,transmission,fuel_type,km_numerical,owners_num
+Mumbai,KIA,2022 KIA CARENS PRESTIGE PLUS 1.5 DIESEL 7 STR,2022,₹11.79 lakh,1179000,"64,510 km",1st owner,Manual,Diesel,64510,1
+Mumbai,KIA,2022 KIA SELTOS GTX PLUS AT 1.5 DIESEL,2022,₹17.21 lakh,1721000,"49,160 km",1st owner,Automatic,Diesel,49160,1
+Mumbai,KIA,2020 KIA SONET HTX PLUS 1.0 IMT,2020,₹8 lakh,800000,"45,478 km",3rd owner,Manual,Petrol,45478,3
+Mumbai,KIA,2021 KIA SONET GTX PLUS 1.5 AT,2021,₹11.73 lakh,1173000,"75,917 km",1st owner,Automatic,Diesel,75917,1
+Mumbai,KIA,2023 KIA SONET HTX 1.0 TURBO PETROL IMT,2023,₹8.55 lakh,855000,"11,309 km",1st owner,Manual,Petrol,11309,1
+Mumbai,KIA,2022 KIA CARENS LUXURY PLUS 1.5 DIESEL 6 STR,2022,₹14.8 lakh,1480000,"7,511 km",1st owner,Manual,Diesel,7511,1
+Mumbai,KIA,2022 KIA CARENS PRESTIGE PLUS 1.4 PETROL 7 STR,2022,₹11.8 lakh,1180000,"33,389 km",2nd owner,Manual,Petrol,33389,2
+Mumbai,KIA,2022 KIA SELTOS GTX PLUS 1.5 DIESEL AT,2022,₹15.49 lakh,1549000,"48,248 km",1st owner,Automatic,Diesel,48248,1
+Mumbai,KIA,2021 KIA SONET HTK PLUS 1.5 AT,2021,₹7.66 lakh,766000,"50,291 km",2nd owner,Automatic,Diesel,50291,2
+Mumbai,KIA,2023 KIA SONET 	 HTX 1.0 TURBO DCT,2023,₹11 lakh,1100000,"9,936 km",1st owner,Automatic,Petrol,9936,1
+Mumbai,KIA,2020 KIA SONET GTX PLUS 1.0 IMT,2020,₹7.99 lakh,799000,"60,786 km",1st owner,Manual,Petrol,60786,1
+Mumbai,KIA,2020 KIA SELTOS GTX PLUS DCT 1.4 PETROL,2020,₹10.52 lakh,1052000,"61,131 km",1st owner,Automatic,Petrol,61131,1
+Mumbai,KIA,2023 KIA CARENS LUXURY PLUS 1.5 DIESEL AT 7 STR,2023,₹17 lakh,1700000,"35,290 km",1st owner,Automatic,Diesel,35290,1
+Mumbai,KIA,2020 KIA SONET HTX 1.0 IMT,2020,₹7.96 lakh,796000,"22,084 km",1st owner,Manual,Petrol,22084,1
+Mumbai,KIA,2021 KIA SELTOS GTX PLUS DCT 1.4 PETROL,2021,₹12.66 lakh,1266000,"76,833 km",1st owner,Automatic,Petrol,76833,1
+Mumbai,KIA,2022 KIA SELTOS HTX 1.5 PETROL,2022,₹10.35 lakh,1035000,"67,361 km",1st owner,Manual,Petrol,67361,1
+Mumbai,KIA,2022 KIA SONET GTX PLUS 1.0 IMT,2022,₹9.34 lakh,934000,"15,426 km",1st owner,Manual,Petrol,15426,1
+Mumbai,KIA,2022 KIA SONET GTX PLUS 1.5 AT,2022,₹13 lakh,1300000,"67,424 km",1st owner,Automatic,Diesel,67424,1
+Mumbai,KIA,2023 KIA SELTOS X LINE 1.4 DCT,2023,₹14.65 lakh,1465000,"31,484 km",1st owner,Automatic,Petrol,31484,1
+Mumbai,KIA,2019 KIA SELTOS GTX PLUS DCT 1.4 PETROL,2019,₹9.99 lakh,999000,"43,291 km",2nd owner,Automatic,Petrol,43291,2
+Mumbai,KIA,2020 KIA SELTOS GTX PLUS 1.4 PETROL,2020,₹11.8 lakh,1180000,"34,017 km",1st owner,Manual,Petrol,34017,1
+Mumbai,KIA,2020 KIA SELTOS HTX 1.5 PETROL,2020,₹9.99 lakh,999000,"45,073 km",2nd owner,Manual,Petrol,45073,2
+Mumbai,KIA,2025 KIA SONET HTK (O) 1.2 Petrol MT,2025,₹9.9 lakh,990000,832 km,1st owner,Manual,Petrol,832,1
+Mumbai,KIA,2023 KIA SELTOS HTX 1.5 DIESEL IMT,2023,₹13.5 lakh,1350000,"52,301 km",1st owner,Manual,Diesel,52301,1
+Mumbai,KIA,2023 KIA CARENS PRESTIGE 1.5 PETROL 7 STR,2023,₹10.38 lakh,1038000,"10,215 km",1st owner,Manual,Petrol,10215,1
+Mumbai,KIA,2019 KIA SELTOS HTK PLUS 1.5,2019,₹7.55 lakh,755000,"84,752 km",2nd owner,Manual,Petrol,84752,2
+Mumbai,KIA,2022 KIA SELTOS HTK PLUS 1.5 IMT,2022,₹11 lakh,1100000,"20,832 km",1st owner,Manual,Petrol,20832,1
+Mumbai,KIA,2020 KIA SELTOS HTX IVT 1.5 PETROL,2020,₹8.99 lakh,899000,"62,381 km",2nd owner,Automatic,Petrol,62381,2
+Mumbai,KIA,2019 KIA SELTOS HTK 1.5 PETROL,2019,₹7.72 lakh,772000,"32,810 km",1st owner,Manual,Petrol,32810,1
+Mumbai,KIA,2022 KIA SELTOS HTX IVT 1.5 PETROL,2022,₹14.42 lakh,1442000,"14,209 km",1st owner,Automatic,Petrol,14209,1
+Mumbai,KIA,2020 KIA SELTOS HTE 1.5 DIESEL,2020,₹9 lakh,900000,"55,643 km",2nd owner,Manual,Diesel,55643,2
+Mumbai,KIA,2020 KIA SELTOS GTX PLUS DCT 1.4 PETROL,2020,₹11.44 lakh,1144000,"36,950 km",1st owner,Automatic,Petrol,36950,1
+Mumbai,KIA,2020 KIA SELTOS HTX PLUS AT1.5 DIESEL,2020,₹11.63 lakh,1163000,"65,792 km",1st owner,Automatic,Diesel,65792,1
+Mumbai,KIA,2020 KIA SELTOS GTX PLUS DCT 1.4 PETROL,2020,₹11.47 lakh,1147000,"34,672 km",1st owner,Automatic,Petrol,34672,1
+Mumbai,KIA,2022 KIA CARENS PRESTIGE 1.5 PETROL 7 STR,2022,₹9.45 lakh,944999,"39,352 km",1st owner,Manual,Petrol,39352,1
+Mumbai,KIA,2023 KIA SELTOS  HTK PLUS 1.5 PETROL MT,2023,₹11.45 lakh,1145000,"14,972 km",1st owner,Manual,Petrol,14972,1
+Mumbai,KIA,2019 KIA SELTOS GTX PLUS DCT 1.4 PETROL,2019,₹10.46 lakh,1046000,"45,333 km",1st owner,Automatic,Petrol,45333,1
+Mumbai,KIA,2022 KIA SELTOS HTK PLUS 1.5,2022,₹10.84 lakh,1084000,"27,605 km",1st owner,Manual,Petrol,27605,1

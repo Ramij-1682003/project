@@ -1,0 +1,18 @@
+Project: Flipkart Sentiment Analysis Using NLP
+
+Description:
+A Natural Language Processing project to classify Flipkart customer reviews as positive or negative to understand customer sentiments.
+
+Technologies Used:
+Python, Pandas, Scikit-learn, NLTK/TextBlob
+
+Features / Highlights:
+1.Preprocessed text data: cleaning, tokenization, stopword removal.
+2.Converted text to numerical features using TF-IDF vectorization.
+3.Trained models: Logistic Regression and Naive Bayes.
+4.Built a predictive pipeline to classify new customer reviews.
+5.Visualized results using confusion matrices and classification reports.
+
+Outcome:
+1.Achieved an overall accuracy of ~87%.
+2.Developed a functional real-time sentiment prediction system.

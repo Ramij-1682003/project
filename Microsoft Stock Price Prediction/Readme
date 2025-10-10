@@ -1,0 +1,19 @@
+Project: Microsoft Stock Price Prediction Using Machine Learning
+
+Description:
+A regression-based project to forecast Microsoft stock prices using historical data and machine learning models.
+
+Technologies Used:
+Python, Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter Notebook
+
+Features / Highlights:
+1.Collected and cleaned historical stock price data.
+2.Engineered features to improve model performance.
+3.Split dataset into training and testing sets.
+4.Implemented regression models: Linear Regression and Random Forest Regressor.
+5.Evaluated models using RMSE, MAE, R² score.
+6.Visualized predicted vs actual stock prices using line charts.
+
+Outcome:
+1.Delivered reliable stock price predictions.
+2.Developed an end-to-end predictive workflow.

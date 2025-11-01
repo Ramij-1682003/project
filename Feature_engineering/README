@@ -1,0 +1,25 @@
+Telecom Market Share Churn Prediction
+
+Industry-Grade Data Science Project - Evoastra Client Assignment
+ 
+Project Overview
+ Project Title: Telecom Market Share Churn Prediction for Revenue Optimization
+ Client: Major Telecommunications Operator Confidential)
+ Industry: Telecommunications
+ Project Type: Time-Series Classification - Market-Level Churn Prediction
+ Business Impact: High - Market share retention is critical for telecom profitability
+ Assigned Team: Evoastra Data Science Interns
+ 
+Executive Summary
+ Evoastra has been engaged by a leading telecommunications client to develop a sophisticated machine learning
+ solution for predicting market-level churn across different geographic regions and operator segments. This
+ project represents a strategic initiative to transform reactive market management into proactive competitive
+ intelligence.
+ The telecommunications industry faces intense competition with operators constantly gaining and losing market
+ share across different regions. Market share erosion in key circles can lead to significant revenue losses and
+ reduced competitive positioning. This project aims to develop a machine learning model that predicts which
+ operator-circle combinations are at risk of subscriber decline (market churn), enabling proactive retention and
+ competitive strategies.
+ Unlike traditional customer-level churn prediction, this project focuses on market-level churn - predicting when
+ telecom operators will lose substantial subscriber base in specific geographic regions. This approach provides
+ strategic insights for network investment, marketing allocation, and competitive positioning
